@@ -1,0 +1,8 @@
+﻿title: "캠핑 & 아웃도어 박람회 정보센터"
+description: "고카프(GOCAF) 캠핑 박람회, 차박, 글램핑, 캠핑용품 최저가 할인 및 레포츠 정보를 공유합니다."
+url: "https://camp.enjoy-onepage.com"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
