@@ -2,7 +2,7 @@ name: Auto Poster
 
 on:
   schedule:
-    - cron: '16 0,6,12,18 * * *' # Every 6 hours
+    - cron: '47 6,18 * * *'
   workflow_dispatch:
 
 jobs:
